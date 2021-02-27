@@ -4,9 +4,6 @@
     <OutputType>Library</OutputType>
     <TargetFramework>net50-windows</TargetFramework>
     <UseWindowsForms>true</UseWindowsForms>
-    <PublishSingleFile>true</PublishSingleFile>
-    <SelfContained>true</SelfContained>
-    <IncludeAllContentForSelfExtract>true</IncludeAllContentForSelfExtract>
   </PropertyGroup>
 
   <ItemGroup>

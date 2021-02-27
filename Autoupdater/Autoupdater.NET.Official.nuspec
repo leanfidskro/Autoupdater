@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Autoupdater.NET.Leanfids</id>
+    <version>1.6.6</version>
+    <title>AutoUpdater.NET</title>
+    <authors>rbsoft</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/ravibpatel/AutoUpdater.NET</projectUrl>
+    <description>AutoUpdater.NET is a class library that allows .NET developers to easily add auto update functionality to their classic desktop application projects.</description>
+    <releaseNotes>https://github.com/ravibpatel/AutoUpdater.NET/releases</releaseNotes>
+    <copyright>Copyright © 2012-2021 RBSoft</copyright>
+    <tags>autoupdate updater c# vb wpf winforms</tags>
+    <dependencies>
+      <group targetFramework="net5-windows">
+      </group>
+    </dependencies>
+  </metadata>
+    <files>
+      <file src="bin\Release\net50-windows\**\*.*" target="lib/net5-windows"></file>
+    </files>
+  
+</package>

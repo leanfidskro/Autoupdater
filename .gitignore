@@ -3,3 +3,7 @@
 ################################################################################
 
 /Autoupdater/bin
+/Autoupdater/obj
+/ZipExtractor/bin
+/ZipExtractor/obj
+/.vs
